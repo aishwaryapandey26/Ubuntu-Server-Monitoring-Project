@@ -35,16 +35,12 @@ graph TD;
 ### Monitoring Dashboard
 ![Netdata](screenshots/Screenshot%20(155).png)
 
-### Monitoring Dashboard
 ![Netdata](screenshots/Screenshot%20(156).png)
 
-### Monitoring Dashboard
 ![Netdata](screenshots/Screenshot%20(159).png)
 
-### Monitoring Dashboard
 ![Netdata](screenshots/Screenshot%20(160).png)
 
-### Monitoring Dashboard
 ![Netdata](screenshots/Screenshot%20(166).png)
 
 
